@@ -1,13 +1,6 @@
 # Resources-to-Learn-HTML-and-CSS
  
-
-
-
-# HTML AND CSS RESOURCES
- 
 All the links given below -
-
-
 
 HTML
  
